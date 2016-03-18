@@ -4,7 +4,7 @@ Title: Stats 799 project at the University of Auckland
 Version: 1.0
 Date: 2016-03-19
 Author: Lueqiu Chen, Divya, Jan
-Maintainer: Lueqiu Chen <lche417@aucklanduni.ac.nz>, Divya, Jan 
+Maintainer: Lueqiu Chen, Divya, Jan <lche417@aucklanduni.ac.nz>
 Description: Density, distribution function and quantile function for the Kumaraswamy distribution.
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.3)
