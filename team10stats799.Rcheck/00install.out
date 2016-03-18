@@ -1,0 +1,25 @@
+* installing *source* package 'team10stats799' ...
+** libs
+
+*** arch - i386
+g++ -m32 -I"e:/PROGRA~2/R/R-32~1.3/include" -DNDEBUG    -I"e:/Program Files/R/R-3.2.3/library/Rcpp/include" -I"d:/RCompile/r-compiling/local/local323/include"     -O2 -Wall  -mtune=core2 -c RcppExports.cpp -o RcppExports.o
+g++ -m32 -I"e:/PROGRA~2/R/R-32~1.3/include" -DNDEBUG    -I"e:/Program Files/R/R-3.2.3/library/Rcpp/include" -I"d:/RCompile/r-compiling/local/local323/include"     -O2 -Wall  -mtune=core2 -c kmr.cpp -o kmr.o
+g++ -m32 -shared -s -static-libgcc -o team10stats799.dll tmp.def RcppExports.o kmr.o -Ld:/RCompile/r-compiling/local/local323/lib/i386 -Ld:/RCompile/r-compiling/local/local323/lib -Le:/PROGRA~2/R/R-32~1.3/bin/i386 -lR
+installing to F:/StatsAuckland/stats779/Rcpp/team10stats799.Rcheck/team10stats799/libs/i386
+
+*** arch - x64
+g++ -m64 -I"e:/PROGRA~2/R/R-32~1.3/include" -DNDEBUG    -I"e:/Program Files/R/R-3.2.3/library/Rcpp/include" -I"d:/RCompile/r-compiling/local/local323/include"     -O2 -Wall  -mtune=core2 -c RcppExports.cpp -o RcppExports.o
+g++ -m64 -I"e:/PROGRA~2/R/R-32~1.3/include" -DNDEBUG    -I"e:/Program Files/R/R-3.2.3/library/Rcpp/include" -I"d:/RCompile/r-compiling/local/local323/include"     -O2 -Wall  -mtune=core2 -c kmr.cpp -o kmr.o
+g++ -m64 -shared -s -static-libgcc -o team10stats799.dll tmp.def RcppExports.o kmr.o -Ld:/RCompile/r-compiling/local/local323/lib/x64 -Ld:/RCompile/r-compiling/local/local323/lib -Le:/PROGRA~2/R/R-32~1.3/bin/x64 -lR
+installing to F:/StatsAuckland/stats779/Rcpp/team10stats799.Rcheck/team10stats799/libs/x64
+** R
+** preparing package for lazy loading
+** help
+Warning: C:/Users/Lueqiu/AppData/Local/Temp/Rtmpqow4K1/Rbuild1b2c154e36de/team10stats799/man/team10stats799-package.Rd:26: All text must be in a section
+Warning: C:/Users/Lueqiu/AppData/Local/Temp/Rtmpqow4K1/Rbuild1b2c154e36de/team10stats799/man/team10stats799-package.Rd:27: All text must be in a section
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+*** arch - i386
+*** arch - x64
+* DONE (team10stats799)

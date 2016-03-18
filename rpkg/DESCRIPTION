@@ -1,0 +1,12 @@
+Package: lche417demo
+Type: Package
+Version: 1.0
+Date: 2016-03-18
+Title: Some variables
+Author: Lueqiu Chen Developer
+Maintainer: Pat Developer <Joe.Developer@some.domain.net>
+Depends: R (>= 1.8.0), nlme
+Description: Nothing interesting
+License: GPL (>= 2)
+URL: http://www.r-project.org, http://www.another.url
+BugReports: http://pkgname.bugtracker.url

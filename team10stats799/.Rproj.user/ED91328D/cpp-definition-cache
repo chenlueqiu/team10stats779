@@ -1,0 +1,35 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "F:/StatsAuckland/stats779/Rcpp/team10stats799/src/kmr.cpp",
+                "kind" : 6,
+                "line" : 11,
+                "name" : "dkmr(NumericVector, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@dkmr#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#"
+            },
+            {
+                "column" : 15,
+                "file" : "F:/StatsAuckland/stats779/Rcpp/team10stats799/src/kmr.cpp",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "pkmr(NumericVector, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@pkmr#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#"
+            },
+            {
+                "column" : 15,
+                "file" : "F:/StatsAuckland/stats779/Rcpp/team10stats799/src/kmr.cpp",
+                "kind" : 6,
+                "line" : 28,
+                "name" : "qkmr(NumericVector, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@qkmr#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#"
+            }
+        ],
+        "file" : "F:/StatsAuckland/stats779/Rcpp/team10stats799/src/kmr.cpp",
+        "file_last_write" : 1458331762
+    }
+]

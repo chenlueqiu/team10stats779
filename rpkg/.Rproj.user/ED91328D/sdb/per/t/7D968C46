@@ -1,0 +1,17 @@
+{
+    "contents" : "\n#install.packages(\"dafs\")\nlibrary(\"dafs\")\n\ndata(vhcdt.df)\nhead(vhcdt.df)\n\nvhcdt.glm <- glm(alc ~ vhcdt1, family = binomial, data = vhcdt.df)\n\nsummary(vhcdt.glm)\n\nsetwd(\"F:/StatsAuckland/stats779/Assignments/\")\nwrite.csv(file = \"vhcdt.csv\", x = vhcdt.df)\n\ncars\nwrite.csv(file = \"car.csv\", x = cars)\ncars.lm <- lm(speed ~ dist, data = cars)\nsummary(cars.lm)\n",
+    "created" : 1458329859645.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2468150170",
+    "id" : "7D968C46",
+    "lastKnownWriteTime" : 1458329906,
+    "path" : "F:/StatsAuckland/stats779/Assignments/assn1.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

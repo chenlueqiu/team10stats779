@@ -1,0 +1,15 @@
+Package: team10stats799
+Type: Package
+Title: Stats 799 project at the University of Auckland
+Version: 1.0
+Date: 2016-03-19
+Author: Lueqiu, Divya, Jan
+Maintainer: Lueqiu, Divya, Jan <lche417@aucklanduni.ac.nz>
+Description: Density, distribution function and quantile function for the Kumaraswamy distribution.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.3)
+LinkingTo: Rcpp
+NeedsCompilation: yes
+Packaged: 2016-03-18 21:00:20 UTC; Lueqiu
+Built: R 3.2.3; x86_64-w64-mingw32; 2016-03-18 21:00:25 UTC; windows
+Archs: i386, x64

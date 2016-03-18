@@ -1,0 +1,18 @@
+{
+    "contents" : "library(devtools)\n\ninstall_github(repo = \"chenlueqiu/team10\")\n\ninstall.packages(\"team10stats799\", \n                 repos = \"https://github.com/chenlueqiu/team10\")\n",
+    "created" : 1458337383155.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3285623673",
+    "id" : "974DD976",
+    "lastKnownWriteTime" : 15481359949824116,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,69 @@
+* using log directory 'F:/StatsAuckland/stats779/Rcpp/team10stats799.Rcheck'
+* using R version 3.2.3 (2015-12-10)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: ISO8859-1
+* using options '--run-donttest --no-manual --no-build-vignettes --as-cran'
+* checking for file 'team10stats799/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'team10stats799' version '1.0'
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking whether package 'team10stats799' can be installed ... WARNING
+Found the following significant warnings:
+  Warning: C:/Users/Lueqiu/AppData/Local/Temp/Rtmpqow4K1/Rbuild1b2c154e36de/team10stats799/man/team10stats799-package.Rd:26: All text must be in a section
+  Warning: C:/Users/Lueqiu/AppData/Local/Temp/Rtmpqow4K1/Rbuild1b2c154e36de/team10stats799/man/team10stats799-package.Rd:27: All text must be in a section
+See 'F:/StatsAuckland/stats779/Rcpp/team10stats799.Rcheck/00install.out' for details.
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* loading checks for arch 'i386'
+** checking whether the package can be loaded ... OK
+** checking whether the package can be loaded with stated dependencies ... OK
+** checking whether the package can be unloaded cleanly ... OK
+** checking whether the namespace can be loaded with stated dependencies ... OK
+** checking whether the namespace can be unloaded cleanly ... OK
+* loading checks for arch 'x64'
+** checking whether the package can be loaded ... OK
+** checking whether the package can be loaded with stated dependencies ... OK
+** checking whether the package can be unloaded cleanly ... OK
+** checking whether the namespace can be loaded with stated dependencies ... OK
+** checking whether the namespace can be unloaded cleanly ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... WARNING
+prepare_Rd: team10stats799-package.Rd:26: All text must be in a section
+prepare_Rd: team10stats799-package.Rd:27: All text must be in a section
+prepare_Rd: team10stats799-package.Rd:33-35: Dropping empty section \examples
+* checking Rd metadata ... OK
+* checking Rd line widths ... OK
+* checking Rd cross-references ... WARNING
+Unknown package '<pkg>' in Rd xrefs
+* checking for missing documentation entries ... WARNING
+Undocumented code objects:
+  'dkmr' 'pkmr' 'qkmr'
+All user-level objects in a package should have documentation entries.
+See chapter 'Writing R documentation files' in the 'Writing R
+Extensions' manual.
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking compiled code ... OK
+* checking examples ... NONE
+* DONE
+Status: 4 WARNINGs
